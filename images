@@ -1,0 +1,9 @@
+/* image 1 */
+
+position: absolute;
+width: 269px;
+height: 137px;
+left: 111px;
+top: 422px;
+
+background: url(image.png);
